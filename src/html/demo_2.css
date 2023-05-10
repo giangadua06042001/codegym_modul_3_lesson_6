@@ -1,0 +1,165 @@
+/*!*bộ chọn phần tử các thẻ HTML*!*/
+/*body{*/
+/*    background: yellow;*/
+/*}*/
+/*h1{*/
+/*    color: navy;*/
+/*    margin-right: 450px;*/
+/*}*/
+/*!*bộ chọn theo id*!*/
+/*#check{*/
+/*    color: black;*/
+/*    font-style: italic;*/
+/*}*/
+/*!*bộ chọn theo class*!*/
+/*.one{*/
+/*    color: darkmagenta;*/
+/*    font-style: normal;*/
+/*}*/
+/*!*bộ chọn kết hợp*!*/
+/*p.one{*/
+/*    color: aliceblue;*/
+/*    font-style: revert;*/
+/*}*/
+/*ul.no_hope{*/
+/*    list-style-type: circle;*/
+/*}*/
+/*ul.dont_hope{*/
+/*    list-style-type: square;*/
+/*}*/
+/*ol.into_love{*/
+/*    list-style-type: upper-roman;*/
+/*}*/
+/*ol.because_painful{*/
+/*    list-style-type: lower-alpha;*/
+/*}*/
+/*ul{*/
+/*    list-style-image: url('https://james.codegym.vn/pluginfile.php/1/theme_remui/logomini/1637071366/icon-small.png');*/
+/*}*/
+/*ul.dont{*/
+/*    list-style-position:inside;*/
+/*}*/
+/*table{*/
+/*    border-collapse: collapse;*/
+/*}*/
+/*table,th,td{*/
+/*    border: 1px solid black;*/
+/*}*/
+/*table{*/
+/*    border-collapse: collapse;*/
+/*    width: 100%;*/
+/*}*/
+/*th{*/
+/*    text-align: left;*/
+/*}*/
+/*td{*/
+/*    height: 50px;*/
+/*    vertical-align: bottom;*/
+/*}*/
+/*table, td, th {*/
+/*    border: 1px solid #ddd;*/
+/*    text-align: left;*/
+/*}*/
+
+/*table {*/
+/*    border-collapse: collapse;*/
+/*    width: 100%;*/
+/*}*/
+
+/*th, td {*/
+/*    padding: 15px;*/
+/*}*/
+/*table {*/
+/*    border-collapse: collapse;*/
+/*    width: 100%;*/
+/*}*/
+
+/*th, td {*/
+/*    text-align: left;*/
+/*    padding: 8px;*/
+/*}*/
+
+/*tr:nth-child(even){background-color: #f2f2f2}*/
+
+/*th {*/
+/*    background: red;*/
+/*    color: white;*/
+/*}*/
+/*tr:nth-child(even){background-color: #f2f2f2}*/
+/*body{*/
+/*    color: blue;*/
+/*}*/
+/*h1{*/
+/*    color:black;*/
+/*}*/
+/*h1 {*/
+/*    text-align: center;*/
+/*}*/
+
+/*h2 {*/
+/*    text-align: left;*/
+/*}*/
+
+/*h3 {*/
+/*    text-align: right;*/
+/*}*/
+/*p{*/
+/*    text-decoration: none;*/
+/*}*/
+#dont{
+    text-transform: lowercase;
+}
+#love{
+    text-transform: capitalize;
+}
+#love{
+    text-indent: 50px;
+    font-variant: small-caps;
+}
+#dont{
+    letter-spacing: 0px;
+}
+#do{
+    font-style: initial;
+    color: gray;
+    text-transform: capitalize;
+}
+#do{
+
+line-height: 50px;
+}
+#dont{
+    direction: rtl;
+    font-weight: initial;
+    font-variant: normal;
+}
+#do{
+    word-spacing: 5px;
+    font-style: oblique;
+    font-weight:bold;
+}
+#hurt{
+    font-family: "Arial Black",Dialog,Calibri;
+    font-style: italic;
+    font-size: 40px;
+}
+p.dont_cry{
+    border-style: dotted;
+    width: 500px;
+}
+p.broken{
+    border-style: dashed;
+    width: 50px;
+}
+p.approach{
+    border-style: solid;
+    width: inherit;
+}
+p.dare{
+    border-style: double;
+    width: revert;
+}
+p.anyone{
+    border-style: outset;
+    width: auto;
+}
