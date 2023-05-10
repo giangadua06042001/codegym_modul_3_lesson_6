@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2614154-5771-4044-906d-abba361a839e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/html/practive_ussing_css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/execrice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/execrice1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683706344454</updated>
-      <workItem from="1683706345716" duration="16703000" />
+      <workItem from="1683706345716" duration="18755000" />
     </task>
     <servers />
   </component>
