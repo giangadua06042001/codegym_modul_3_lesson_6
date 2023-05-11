@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+}
+p{
+    text-indent: 25px;
+}
+.non{
+    color: dodgerblue;
+}
+span.non_id{
+    color: blue;
+}
