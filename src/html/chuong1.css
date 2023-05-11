@@ -1,0 +1,10 @@
+#non{
+    display: flex;
+}
+#love{
+    flex: 1;
+    letter-spacing: 50px;
+}
+#hurt{
+    flex: 1;
+}

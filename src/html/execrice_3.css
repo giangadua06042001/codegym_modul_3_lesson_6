@@ -1,0 +1,23 @@
+#do{
+    display: flex;
+}
+#dont{
+    flex: 1;
+    letter-spacing: 50px;
+}
+#love{
+    flex: 1;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+    font-style: italic;
+}
+hr{
+    tranѕform:rotate(90deg); -o-tranѕform:rotate(90deg); -moᴢ-tranѕform:rotate(90deg); -ᴡebkit-tranѕform:rotate(90deg);
+}
+#not{
+
+}
